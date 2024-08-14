@@ -1,5 +1,4 @@
 
-
 export function Posts(){
   return(
     <div className="w-[54rem] mt-[72px]">
