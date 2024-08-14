@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*{
+  line-height: 160%;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+  background-color: #071422;
+}
+
+p{
+  color: #AFC2D4;
+}
